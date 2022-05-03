@@ -24,6 +24,7 @@
 - 重新启动
 
 # 推荐运行环境
+- 至少需要 `Android v8.0 +`
 - 至少需要 `Magisk v19.0 +`
 - 基于 [MIUI](https://www.miui.com/download.html) 或 [MIUI by Xiaomi.eu](Xiaomi.eu) 的 `Android 8.0 ~ 10.0` 之间的 MIUI 系统
 
